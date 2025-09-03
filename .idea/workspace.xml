@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45e48293-fb08-4821-8e0c-f0970e6234b6" name="Changes" comment="HW4">
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/1/HW1.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/1/UserList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/2/CurrentUser.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/2/HW2.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/2/UserList2.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/3/HW3.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/4/Button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/4/HW4.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/4/HW4.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/4/Input.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DenKulikovGit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:DenKulikovGit/homework-front-main.git&quot;,
+    &quot;accountId&quot;: &quot;5f415744-74b5-4e1c-a3fe-311fb3736157&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2w4rJpKy7I0bNSR0up1mw2XJzM1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/incubator/Github_DenKulikovGit/homework-front-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;npm.deploy.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\incubator\\Github_DenKulikovGit\\homework-front-main\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e48293-fb08-4821-8e0c-f0970e6234b6" name="Changes" comment="" />
+      <created>1745311617229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745311617229</updated>
+      <workItem from="1745311618302" duration="100000" />
+      <workItem from="1745312526964" duration="1277000" />
+      <workItem from="1745391170370" duration="3374000" />
+      <workItem from="1745401578695" duration="3900000" />
+      <workItem from="1745420891429" duration="690000" />
+      <workItem from="1745569510403" duration="1933000" />
+      <workItem from="1746459101004" duration="2453000" />
+      <workItem from="1746621925141" duration="3930000" />
+      <workItem from="1747060557204" duration="4884000" />
+      <workItem from="1747636356237" duration="558000" />
+      <workItem from="1747636942428" duration="1325000" />
+      <workItem from="1756801204233" duration="2528000" />
+      <workItem from="1756813464502" duration="1147000" />
+      <workItem from="1756825777101" duration="1282000" />
+      <workItem from="1756830135989" duration="902000" />
+      <workItem from="1756831332482" duration="2593000" />
+      <workItem from="1756884729105" duration="2222000" />
+    </task>
+    <task id="LOCAL-00001" summary="homework-front-main init project">
+      <option name="closed" value="true" />
+      <created>1745312987993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745312987993</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework-front-main init project">
+      <option name="closed" value="true" />
+      <created>1745313002714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745313002714</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework-front-main init project">
+      <option name="closed" value="true" />
+      <created>1745313141191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745313141191</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework-front-main init project">
+      <option name="closed" value="true" />
+      <created>1745314312209</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745314312209</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homework-front-main HW2">
+      <option name="closed" value="true" />
+      <created>1746460436997</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746460436997</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HW3">
+      <option name="closed" value="true" />
+      <created>1756830570219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756830570219</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HW3">
+      <option name="closed" value="true" />
+      <created>1756830870923</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756830870923</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HW4">
+      <option name="closed" value="true" />
+      <created>1756833317219</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756833317219</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework-front-main init project" />
+    <MESSAGE value="homework-front-main HW2" />
+    <MESSAGE value="HW3" />
+    <MESSAGE value="HW4" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW4" />
+  </component>
+</project>
